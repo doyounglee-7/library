@@ -1008,3 +1008,212 @@
     position: absolute;
     text-decoration-color: black;
 }
+
+.boxA {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 266px;
+    top: 590px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonA {
+    left: 272px;
+    top: 600px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxB {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 218px;
+    top: 590px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonB {
+    left: 225px;
+    top: 600px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.butoonC {
+    left: 176px;
+    top: 600px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxC {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 168px;
+    top: 590px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonD {
+    left: 128px;
+    top: 600px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxD {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 121px;
+    top: 590px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonE {
+    left: 79px;
+    top: 600px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxE {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 71px;
+    top: 590px;
+    position: absolute;
+    display: none;
+}
+ 
+.boxF {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 266px;
+    top: 626px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonF {
+    left: 272px;
+    top: 636px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxG {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 218px;
+    top: 626px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonG {
+    left: 225px;
+    top: 636px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.butoonH {
+    left: 176px;
+    top: 636px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxH {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 168px;
+    top: 626px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonI {
+    left: 128px;
+    top: 636px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxI {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 121px;
+    top: 626px;
+    position: absolute;
+    display: none;
+}
+    
+
+.butoonJ {
+    left: 79px;
+    top: 636px;
+    height: 10px;
+    position: absolute;
+    text-decoration-color: black;
+}
+
+.boxJ {
+    background: #00ff00;
+    color: #00ff00;
+    padding: 20px;
+    width: 1px;
+    height: 1px;
+    left: 71px;
+    top: 626px;
+    position: absolute;
+    display: none;
+}
+ 
